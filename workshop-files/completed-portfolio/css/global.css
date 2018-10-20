@@ -52,7 +52,6 @@ nav li a:hover {
 
 #hero {
   background-image: linear-gradient(rgba(225,225,225,0.9), rgba(0,0,225,0)), url("../images/ocean.jpeg");
-
   text-align: center;
   color: #000000;
 	background-size: cover;
