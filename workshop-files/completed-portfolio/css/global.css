@@ -102,7 +102,9 @@ nav li a:hover {
     margin-bottom: 15px;
 }
 .column .btn {
-   border: 2px solid #8a80c3;
+    border-radius:7px;
+    background:#ffffe0;
+    border: 2px solid #8a80c3;
     padding: 10px 20px;
     display: inline-block;
     margin-top: 10px;
