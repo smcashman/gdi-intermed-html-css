@@ -96,6 +96,11 @@ nav li a:hover {
     border: 5px solid #8a80c3;
     margin-bottom: 20px;
 }
+
+.column img:hover {
+    border-color: #6a60a3;
+}
+
 .column h4 {
     color: #8a80c3;
     font-size: 150%;
